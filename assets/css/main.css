@@ -3782,3 +3782,24 @@ input, select, textarea {
 			}
 
 		}
+
+		.modal-header {
+			background: #512DAB;
+			color: floralwhite;
+		}
+		
+		.close {
+			color: floralwhite;
+		}
+		
+		.close:hover {
+			color: white;
+		}
+		
+		.modal-body {
+			background: #D1C4E9;
+		}
+		
+		.modal-footer {
+			background: #9575CD;
+		}		
